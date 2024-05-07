@@ -7,7 +7,7 @@ The original source for the data can be found here: [https://archive.ics.uci.edu
 
 Our main research question is as follows:  Is it possible to develop an accurate and fair algorithmic decision-making model for predicting credit card default without relying on sensitive features? Some of our sub questions stemming from this include:  Are models not trained on sensitive features accurate at predicting credit card defaulting? And, how does this play out between genders?
 
-Go through the notebook phase5.ipynb to see how we approached this research question. This was done for the class [Designing Fair Algorithms](https://classes.cornell.edu/browse/roster/SP24/class/INFO/4390)
+Go through the notebook phase5.ipynb to see how we approached this research question. This was done for the class [INFO 4390: Designing Fair Algorithms] at Cornell University. (https://classes.cornell.edu/browse/roster/SP24/class/INFO/4390)
 
 
 ## Contributors: 
